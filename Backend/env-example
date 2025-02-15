@@ -1,0 +1,4 @@
+PORT=5000
+MONGO_URI="mongodb+srv://Study-Notion:studynotion@cluster0.1bwt2.mongodb.net/AccredianDatabase"
+EMAIL_USER= 
+EMAIL_PASS= 
