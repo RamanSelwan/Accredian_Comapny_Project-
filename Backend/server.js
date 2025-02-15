@@ -14,7 +14,7 @@ connectDB();
 
 // CORS Configuration
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "https://accrediancom.vercel.app",
   optionsSuccessStatus: 200,
 };
 
