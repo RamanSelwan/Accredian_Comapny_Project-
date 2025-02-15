@@ -32,7 +32,7 @@ const ReferralForm = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/referrals/submit",
+        "https://accredian-comapny-project.onrender.com/api/referrals/submit",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
